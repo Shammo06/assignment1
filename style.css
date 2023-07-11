@@ -178,7 +178,7 @@ header{
     background-position: top;
     background-size: 100%;
     border-radius: 8px;
-    margin: 120px auto;
+    margin: 80px auto;
     padding-top: 5%;
     background-repeat: no-repeat;
     
@@ -190,8 +190,8 @@ footer{
     text-align: center;
     background-position: top;
     border-radius: 8px;
-    margin: 120px auto;
-    padding-top: 5%;
+    margin: 80px auto;
+    padding-top: 7%;
            
 }
 
