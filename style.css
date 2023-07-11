@@ -136,3 +136,24 @@ header{
     text-align: center;
     gap: 32px;
 }
+.image{
+    display: inline-block;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.picture{
+    width: 340px;
+    height: 390px;
+    margin-left: 20px;
+    
+}
+.background{
+    width: 1440px;
+    height: 449px;
+    background-image: url('../asset/r1.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    
+   
+    
+}
