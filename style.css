@@ -83,7 +83,30 @@ header{
 .flower-pic{
     width: 310px;
     height: 428px;
+
 }
+#flower-pic2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+#flower-pic1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    
+}
+#flower-pic3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    
+    
+}
+
 .flower-title{
     color: #272727;
     text-align: center;
@@ -229,9 +252,25 @@ footer{
 
 .bonus-part{
     text-align: center;
+    margin-top: 60px;
 }
 .bonus-div{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+input{
+    width: 700px;
+    height: 58px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 10px;
+
+}
+::placeholder{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
