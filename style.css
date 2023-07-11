@@ -68,6 +68,7 @@ header{
     align-items: center;
     padding-left: 240px;
     padding-right: 240px;
+    padding-bottom: 0%;
 
 }
 .flower-pi{
@@ -148,12 +149,21 @@ header{
     
 }
 .background{
-    width: 1440px;
-    height: 449px;
     background-image: url('../asset/r1.png');
     background-repeat: no-repeat;
+    background-size: 1440px 449px;
     border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+       
     
-   
-    
+}
+footer{
+    margin-top: 20px;
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+    align-items: center;
+    justify-content: center;
+        
 }
