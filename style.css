@@ -221,3 +221,17 @@ footer{
     font-weight: 400;
     line-height: normal;
 }
+.input[textarea]{
+    width: 700px;
+
+    height: 64px;
+}
+
+.bonus-part{
+    text-align: center;
+}
+.bonus-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
