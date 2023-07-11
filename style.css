@@ -90,12 +90,14 @@ header{
     border-radius: 8px;
     margin-left: 240px;
     margin-right: 240px;
+    
+}
+.service-position{
+    display: block;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-.s{
-    display: block;
+    padding: 110px 200px 110px 200px;
 }
 .flower-service{
     width: 88px;
